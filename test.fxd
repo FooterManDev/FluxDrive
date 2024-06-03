@@ -1,0 +1,8 @@
+Plugin [
+    "com.example.examplecomp:pluginId - version"
+]
+
+Dependencies: [
+    Pkg - "com.example.examplecomp:packageId - version"
+    Pkg/T - "com.example.examplecomp:packageId - version"
+]
