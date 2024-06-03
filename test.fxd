@@ -1,3 +1,5 @@
+/* This is the example syntax of FluxDrive. It will not be final!! */
+
 Plugin [
     "com.example.examplecomp:pluginId - version"
 ]
